@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.072,P:\Delphi\Project1\Unit2.dfm=P:\Delphi\Project1\main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.893,P:\Delphi\Project1\Unit2.dfm=P:\Delphi\Project1\firms.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.515,P:\Delphi\Project1\Unit2.dfm=P:\Delphi\Project1\products.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.447,P:\Delphi\Project1\Unit2.pas=P:\Delphi\Project1\Firm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.916,P:\Delphi\Project1\Unit1.pas=C:\Users\1828pm17\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.119,P:\Delphi\Project1\Unit2.dfm=P:\Delphi\Project1\product.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.828,P:\Delphi\Project1\Unit2.dfm=P:\Delphi\Project1\datamodule.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.891,P:\Delphi\Project1\Command.pas=P:\Delphi\Project1\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.510,P:\Delphi\Project1\Project1.dproj=C:\Users\1828pm17\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.945,P:\Delphi\Project1\common.pas=P:\Delphi\Project1\Command.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.447,P:\Delphi\Project1\Unit2.dfm=P:\Delphi\Project1\Firm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.916,P:\Delphi\Project1\Unit1.dfm=C:\Users\1828pm17\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.350,=C:\Users\1828pm17\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.893,P:\Delphi\Project1\Unit2.pas=P:\Delphi\Project1\firms.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.515,P:\Delphi\Project1\Unit2.pas=P:\Delphi\Project1\products.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.577,=P:\Delphi\Project1\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.119,P:\Delphi\Project1\Unit2.pas=P:\Delphi\Project1\product.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.072,P:\Delphi\Project1\Unit2.pas=P:\Delphi\Project1\main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.828,P:\Delphi\Project1\Unit2.pas=P:\Delphi\Project1\datamodule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.536,=P:\Delphi\Project1\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.485,=P:\Delphi\Project1\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.061,=P:\Delphi\Project1\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.831,=P:\Delphi\Project1\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.668,=P:\Delphi\Project1\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.989,=P:\Delphi\Project1\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.649,=P:\Delphi\Project1\Unit2.pas</Transaction>
+    <Transaction>2021.04.22 14:15:50.766,=P:\Project1\Unit2.pas</Transaction>
+    <Transaction>2021.04.22 14:31:52.545,P:\Project1\FuturaNew.pas=P:\Project1\Unit2.pas</Transaction>
+    <Transaction>2021.04.22 14:31:52.545,P:\Project1\FuturaNew.dfm=P:\Project1\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
